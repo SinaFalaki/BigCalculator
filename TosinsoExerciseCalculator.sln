@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TosinsoExerciseCalculator", "TosinsoExerciseCalculator.csproj", "{95440A50-8BDE-49B0-93C2-5B6A936C8C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95440A50-8BDE-49B0-93C2-5B6A936C8C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95440A50-8BDE-49B0-93C2-5B6A936C8C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95440A50-8BDE-49B0-93C2-5B6A936C8C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95440A50-8BDE-49B0-93C2-5B6A936C8C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F45C510-1279-465F-8A55-2C56DA65CD25}
+	EndGlobalSection
+EndGlobal

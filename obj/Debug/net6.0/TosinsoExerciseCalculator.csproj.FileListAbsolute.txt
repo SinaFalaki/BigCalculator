@@ -1,0 +1,15 @@
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\bin\Debug\net6.0\TosinsoExerciseCalculator.exe
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\bin\Debug\net6.0\TosinsoExerciseCalculator.deps.json
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\bin\Debug\net6.0\TosinsoExerciseCalculator.runtimeconfig.json
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\bin\Debug\net6.0\TosinsoExerciseCalculator.dll
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\bin\Debug\net6.0\TosinsoExerciseCalculator.pdb
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.AssemblyInfo.cs
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.dll
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\refint\TosinsoExerciseCalculator.dll
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.pdb
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\TosinsoExerciseCalculator.genruntimeconfig.cache
+D:\_MY C# PROJECT\TosinsoExerciseCalculator\obj\Debug\net6.0\ref\TosinsoExerciseCalculator.dll
