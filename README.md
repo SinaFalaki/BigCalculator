@@ -1,4 +1,4 @@
-# BigCalculator
+# BigCalculator C#
 Using this program, you will be able to perform the four basic operations of addition, multiplication, division and subtraction on very large numbers
 
 ماشین حساب ِ اعداد بزرگ:
